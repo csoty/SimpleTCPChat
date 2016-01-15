@@ -1,0 +1,9 @@
+D:\Dropbox\#dev\C#\SecondChatClient\SecondChatClient\bin\Release\SecondChatClient.exe.config
+D:\Dropbox\#dev\C#\SecondChatClient\SecondChatClient\bin\Release\SecondChatClient.exe
+D:\Dropbox\#dev\C#\SecondChatClient\SecondChatClient\bin\Release\SecondChatClient.pdb
+D:\Dropbox\#dev\C#\SecondChatClient\SecondChatClient\obj\Release\SecondChatClient.csprojResolveAssemblyReference.cache
+D:\Dropbox\#dev\C#\SecondChatClient\SecondChatClient\obj\Release\SecondChatClient.CClient.resources
+D:\Dropbox\#dev\C#\SecondChatClient\SecondChatClient\obj\Release\SecondChatClient.Properties.Resources.resources
+D:\Dropbox\#dev\C#\SecondChatClient\SecondChatClient\obj\Release\SecondChatClient.csproj.GenerateResource.Cache
+D:\Dropbox\#dev\C#\SecondChatClient\SecondChatClient\obj\Release\SecondChatClient.exe
+D:\Dropbox\#dev\C#\SecondChatClient\SecondChatClient\obj\Release\SecondChatClient.pdb

@@ -1,0 +1,9 @@
+D:\Dropbox\#dev\C#\SecondChatServer_Form\SecondChatServer_Form\bin\Release\SecondChatServer_Form.exe.config
+D:\Dropbox\#dev\C#\SecondChatServer_Form\SecondChatServer_Form\bin\Release\SecondChatServer_Form.exe
+D:\Dropbox\#dev\C#\SecondChatServer_Form\SecondChatServer_Form\bin\Release\SecondChatServer_Form.pdb
+D:\Dropbox\#dev\C#\SecondChatServer_Form\SecondChatServer_Form\obj\Release\SecondChatServer_Form.Form1.resources
+D:\Dropbox\#dev\C#\SecondChatServer_Form\SecondChatServer_Form\obj\Release\SecondChatServer_Form.Properties.Resources.resources
+D:\Dropbox\#dev\C#\SecondChatServer_Form\SecondChatServer_Form\obj\Release\SecondChatServer_Form.csproj.GenerateResource.Cache
+D:\Dropbox\#dev\C#\SecondChatServer_Form\SecondChatServer_Form\obj\Release\SecondChatServer_Form.exe
+D:\Dropbox\#dev\C#\SecondChatServer_Form\SecondChatServer_Form\obj\Release\SecondChatServer_Form.pdb
+D:\Dropbox\#dev\C#\SecondChatServer_Form\SecondChatServer_Form\obj\Release\SecondChatServer_Form.csprojResolveAssemblyReference.cache
